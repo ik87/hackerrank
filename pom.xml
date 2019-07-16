@@ -9,6 +9,7 @@
     <version>2.0</version>
     <modules>
         <module>birthday_chocolate</module>
+        <module>between_two_sets</module>
     </modules>
 
     <properties>
