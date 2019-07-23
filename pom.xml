@@ -10,6 +10,7 @@
     <modules>
         <module>birthday_chocolate</module>
         <module>between_two_sets</module>
+        <module>divisible_sum_pairs</module>
     </modules>
 
     <properties>
