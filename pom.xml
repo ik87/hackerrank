@@ -11,6 +11,7 @@
         <module>birthday_chocolate</module>
         <module>between_two_sets</module>
         <module>divisible_sum_pairs</module>
+        <module>migratory_birds</module>
     </modules>
 
     <properties>
