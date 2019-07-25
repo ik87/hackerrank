@@ -12,6 +12,7 @@
         <module>between_two_sets</module>
         <module>divisible_sum_pairs</module>
         <module>migratory_birds</module>
+        <module>day_of_the_programmer</module>
     </modules>
 
     <properties>

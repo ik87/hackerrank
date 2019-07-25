@@ -1,5 +1,8 @@
 import java.util.*;
-
+/**
+ * @author Kosolapov Ilya (d_dexter@mail.ru)
+ * https://www.hackerrank.com/challenges/divisible-sum-pairs/problem
+ */
 public class Solution {
     static int migratoryBirds(List<Integer> arr) {
         Map<Integer, Integer> map = new TreeMap<>();
