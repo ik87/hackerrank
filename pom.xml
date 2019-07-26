@@ -13,6 +13,7 @@
         <module>divisible_sum_pairs</module>
         <module>migratory_birds</module>
         <module>day_of_the_programmer</module>
+        <module>bon_appetit</module>
     </modules>
 
     <properties>
