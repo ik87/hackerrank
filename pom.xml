@@ -15,6 +15,7 @@
         <module>day_of_the_programmer</module>
         <module>bon_appetit</module>
         <module>sock_merchant</module>
+        <module>drawing_book</module>
     </modules>
 
     <properties>
