@@ -17,6 +17,7 @@
         <module>sock_merchant</module>
         <module>drawing_book</module>
         <module>counting_valleys</module>
+        <module>electronics_shop</module>
     </modules>
 
     <properties>
