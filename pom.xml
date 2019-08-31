@@ -18,6 +18,7 @@
         <module>drawing_book</module>
         <module>counting_valleys</module>
         <module>electronics_shop</module>
+        <module>cats_and_a_mouse</module>
     </modules>
 
     <properties>
